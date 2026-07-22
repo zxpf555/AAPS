@@ -8,7 +8,7 @@ https://afdian.com/a/manong
 <a href="/Documentation/donation.jpg"><img src="/Documentation/donation.jpg?raw=true" alt="Donation" width="300"></a>
 
 ## How to Build
-## 如何编译1
+## 如何编译2
 
 ### If your are familiar with Android development:
 * Fork this repository.
